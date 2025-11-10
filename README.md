@@ -1,8 +1,9 @@
-# Athens-Airbnb-Data-Mining-Sentiment-Analysis
+# athens-airbnb-data-analysis
 
 This project analyzes Airbnb listings in Athens using **data mining** and **natural language processing** techniques.  
 It consists of two main parts: data exploration and sentiment analysis, followed by semantic similarity modeling.
 
+![Bar](plots/bar.png)
 
 # Project Structure
  ## Part 1 — Data Exploration & Cleaning
